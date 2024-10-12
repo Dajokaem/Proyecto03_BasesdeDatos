@@ -1,0 +1,45 @@
+**********2024-10-11 21:41:30****************
+**********2024-10-11 21:41:54****************
+**********2024-10-11 21:50:59****************
+MySQL: Select All
+MySQL: Select All
+MySQL: InsertEmpleado {id=0, DPI=2555123453456, PrimerNombre='Juan', SegundoNombre='Luis', PrimerApellido='Lopez', SegundoApellido='Garcia', Direccion='El bucaro, Zona 6', Telefono=12345678, Celular=87654321, Salario=2500.0, Bonificacion=250.0}
+MySQL: Select All
+MySQL: Select All
+MySQL: InsertEmpleado {id=0, DPI=1234123451234, PrimerNombre='Reginaldo', SegundoNombre='  ', PrimerApellido='Quan', SegundoApellido='Chuy', Direccion='El, Amanecer zona1', Telefono=22334455, Celular=99887766, Salario=3000.0, Bonificacion=250.0}
+MySQL: InsertEmpleado {id=0, DPI=5555444443333, PrimerNombre='Ermeregildo', SegundoNombre='Feliciano', PrimerApellido='PEP', SegundoApellido='Castro', Direccion='Puerto Barrios', Telefono=33225588, Celular=22557799, Salario=2800.0, Bonificacion=250.0}
+MySQL: Select All
+MySQL: Select All
+MySQL: Select All
+PostGreSQL: Select All
+MySQL: Select All
+MySQL: Select All
+MySQL: Select All
+MySQL: Select All
+PostGreSQL: Select All
+**********2024-10-11 21:55:22****************
+MySQL: Select All
+PostGreSQL: Select All
+PostGreSQL: insertEmpleado {id=0, DPI=1, PrimerNombre='1', SegundoNombre='1', PrimerApellido='1', SegundoApellido='1', Direccion='1', Telefono=1, Celular=1, Salario=11.0, Bonificacion=1.0}
+PostGreSQL: Select All
+MySQL: Select All
+MySQL: Select All
+MySQL: Select All
+MySQL: Select All
+PostGreSQL: Select All
+MySQL: Select All
+MySQL: Select All
+MySQL: Select All
+MySQL: Select All
+MySQL: Select All
+PostGreSQL: Select All
+MySQL: Select All
+MySQL: Select All
+MySQL: Select All
+MySQL: Select All
+MySQL: Select All
+PostGreSQL: Select All
+MySQL: Select All
+MySQL: Select All
+MySQL: Select All
+MySQL: Select All
